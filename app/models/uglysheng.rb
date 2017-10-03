@@ -1,0 +1,2 @@
+class Uglysheng < ApplicationRecord
+end
